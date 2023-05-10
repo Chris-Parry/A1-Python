@@ -1,0 +1,40 @@
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 18.724
+Phase shift (degrees): 1072.8
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 18.724
+Phase shift (degrees): 1072.8
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 75.232
+Phase shift (degrees): 4310.5
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 22.158
+Phase shift (degrees): 1269.6
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 18.724
+Phase shift (degrees): 1072.8
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 18.724
+Phase shift (degrees): 1072.8
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 18.724
+Phase shift (degrees): 1072.8
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 0.027
+Phase shift (degrees): 1.6
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 3.116
+Phase shift (degrees): 178.6
+
+File: Data Files/scope_a1_0.csv
+Phase shift (radians): 0.004
+Phase shift (degrees): 0.2
+
