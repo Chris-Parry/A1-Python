@@ -1,3 +1,5 @@
+import os
+
 from matplotlib import pyplot as plt
 
 from modules.fit_data import sine_function
@@ -12,6 +14,7 @@ def plot_wave(
     filepath: str,
     phase_shift_degrees: float,
 ):
+    filename = os.path.basename(filepath)
     plt.figure()
     plt.plot(x_data, y_data1, label="Wave 1")
     plt.plot(x_data, y_data2, label="Wave 2")
@@ -20,7 +23,7 @@ def plot_wave(
     plt.xlabel("x")
     plt.ylabel("y")
     plt.title(
-        f"Phase Shift: {phase_shift_degrees:.1f} degrees, with filepath: {filepath}"
+        f"Phase Shift: {phase_shift_degrees:.1f} degrees, with filepath: {filename}"
     )
     plt.legend()
     plt.show()
