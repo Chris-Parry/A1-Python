@@ -23,7 +23,7 @@ def plot_wave(
     plt.xlabel("x")
     plt.ylabel("y")
     plt.title(
-        f"Phase Shift: {phase_shift_degrees:.1f} degrees, with filepath: {filename}"
+        f"Phase Shift: {phase_shift_degrees:.1f} degrees, with filename: {filename}"
     )
     plt.legend()
     plt.show()

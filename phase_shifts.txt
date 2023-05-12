@@ -6,11 +6,3 @@ File: data/scope_a1_1.csv
 Phase shift (radians): 1.462
 Phase shift (degrees): 83.8
 
-File: data/scope_a1_0.csv
-Phase shift (radians): 1.456
-Phase shift (degrees): 83.4
-
-File: data/scope_a1_0.csv
-Phase shift (radians): 1.456
-Phase shift (degrees): 83.4
-
