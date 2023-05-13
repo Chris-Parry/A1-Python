@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "a1 python"
+name = "A1-Python"
 version = "0.1.0"
-description = ""
+description = "Package made for A1 Plasma Processing of Materials third year lab experiment at the University of York, UK"
 authors = ["csg524 <csg524@york.ac.uk>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = ">=3.11,<3.12"
 astroid = "2.15.4"
 dill = "0.3.6"
 isort = "5.12.0"
@@ -19,6 +19,10 @@ pylint = "2.17.4"
 tomlkit = "0.11.8"
 typing-extensions = "4.5.0"
 wrapt = "1.15.0"
+numpy = "^1.24.3"
+scipy = "^1.10.1"
+matplotlib = "^3.7.1"
+pandas = "^2.0.1"
 
 
 [build-system]
