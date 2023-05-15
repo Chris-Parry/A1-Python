@@ -5,7 +5,7 @@ from modules.save_data import save_data
 
 
 def main() -> None:
-    filepath = "data/scope_a1_0.csv"
+    filepath = "data/Oscilloscope Data/scope_a1_0.csv"
     x_data, y_wave1, y_wave2 = load_data(filepath)
     initial_guesses_wave1: list[float] = [
         0.3,  # Amplitude
