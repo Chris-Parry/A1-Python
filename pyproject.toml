@@ -28,6 +28,7 @@ regex = "^2023.5.5"
 ipykernel = "^6.23.1"
 ipython = "^8.13.2"
 xlrd = "^2.0.1"
+plotly = "^5.14.1"
 
 
 [tool.poetry.group.dev.dependencies]
