@@ -26,10 +26,12 @@ def drop_empty_csv_rows() -> None:
         df.to_csv(csv, index=False, header=headers)
 
 
-def plotly_plot_csvs() -> None:
-    csv_files = glob.glob("data/Attension Data/*.csv")
+def plotly_plot_csvs(sample_name_prefix) -> None:
+    csv_files = glob.glob(
+        f"data/Attension Data/csg524 {sample_name_prefix} Measurement *.csv"
+    )
+    csv_files.sort()
 
-    # Create subplot with as many rows as files
     fig = make_subplots(rows=len(csv_files), cols=1)
 
     for i, file in enumerate(csv_files):
@@ -54,4 +56,4 @@ def plotly_plot_csvs() -> None:
     fig.show()
 
 
-plotly_plot_csvs()
+plotly_plot_csvs("Sample 1")
