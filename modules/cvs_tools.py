@@ -1,8 +1,8 @@
 import glob
+import re
 
 import pandas as pd
 import plotly.graph_objects as go
-from plotly.subplots import make_subplots
 
 
 def convert_xls_to_csv() -> None:
@@ -32,28 +32,34 @@ def plotly_plot_csvs(sample_name_prefix) -> None:
     )
     csv_files.sort()
 
-    fig = make_subplots(rows=len(csv_files), cols=1)
-
-    for i, file in enumerate(csv_files):
+    fig = go.Figure()
+    regex_measurement_number = r"Measurement (\d+)"
+    for file in csv_files:
+        # Read the CSV data
         data = pd.read_csv(file)
 
-        fig.add_trace(
-            go.Scatter(
-                x=data["Time [s]"],
-                y=data["CA mean [°]"],
-                mode="lines",
-                name=f"Data from {file}",
-            ),
-            row=i + 1,
-            col=1,
-        )
-
+        if match := re.search(regex_measurement_number, file):
+            fig.add_trace(
+                go.Scatter(
+                    x=data["Time [s]"],
+                    y=data["CA mean [°]"],
+                    mode="lines",
+                    name=f"Data from M {match[1]}",
+                )
+            )
     fig.update_layout(
-        height=400 * len(csv_files),
-        width=800,
-        title_text="Subplots from multiple CSV files",
+        height=600,
+        width=1600,
+        title_text=f"Data from {sample_name_prefix} Measurements",
     )
     fig.show()
 
 
 plotly_plot_csvs("Sample 1")
+plotly_plot_csvs("Sample 2")
+plotly_plot_csvs("Sample 3")
+plotly_plot_csvs("Sample 4")
+plotly_plot_csvs("Sample 5")
+plotly_plot_csvs("Treated Sample 1")
+
+# TODO Fix the fact that plotting multiple times seems to overwrite the previous plot
