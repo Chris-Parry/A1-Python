@@ -8,3 +8,203 @@ Phase shift (radians): 1.462
 Phase shift (degrees): 83.8
 Difference: 6.21
 
+File: data/Oscilloscope Data/scope_a1_pw_0.csv
+Phase shift (radians): 1.392
+Phase shift (degrees): 79.7
+Difference: 10.27
+
+File: data/Oscilloscope Data/scope_a1_pw_1.csv
+Phase shift (radians): 1.381
+Phase shift (degrees): 79.2
+Difference: 10.85
+
+File: data/Oscilloscope Data/scope_a1_pw_10.csv
+Phase shift (radians): 1.395
+Phase shift (degrees): 79.9
+Difference: 10.08
+
+File: data/Oscilloscope Data/scope_a1_pw_11.csv
+Phase shift (radians): 1.383
+Phase shift (degrees): 79.2
+Difference: 10.78
+
+File: data/Oscilloscope Data/scope_a1_pw_12.csv
+Phase shift (radians): 1.374
+Phase shift (degrees): 78.7
+Difference: 11.29
+
+File: data/Oscilloscope Data/scope_a1_pw_13.csv
+Phase shift (radians): 1.382
+Phase shift (degrees): 79.2
+Difference: 10.81
+
+File: data/Oscilloscope Data/scope_a1_pw_14.csv
+Phase shift (radians): 1.347
+Phase shift (degrees): 77.2
+Difference: 12.82
+
+File: data/Oscilloscope Data/scope_a1_pw_15.csv
+Phase shift (radians): 1.409
+Phase shift (degrees): 80.7
+Difference: 9.30
+
+File: data/Oscilloscope Data/scope_a1_pw_2.csv
+Phase shift (radians): 1.392
+Phase shift (degrees): 79.8
+Difference: 10.23
+
+File: data/Oscilloscope Data/scope_a1_pw_20.csv
+Phase shift (radians): 1.411
+Phase shift (degrees): 80.8
+Difference: 9.16
+
+File: data/Oscilloscope Data/scope_a1_pw_21.csv
+Phase shift (radians): 1.394
+Phase shift (degrees): 79.9
+Difference: 10.11
+
+File: data/Oscilloscope Data/scope_a1_pw_22.csv
+Phase shift (radians): 1.389
+Phase shift (degrees): 79.6
+Difference: 10.40
+
+File: data/Oscilloscope Data/scope_a1_pw_23.csv
+Phase shift (radians): 1.380
+Phase shift (degrees): 79.1
+Difference: 10.90
+
+File: data/Oscilloscope Data/scope_a1_pw_24.csv
+Phase shift (radians): 1.368
+Phase shift (degrees): 78.4
+Difference: 11.61
+
+File: data/Oscilloscope Data/scope_a1_pw_3.csv
+Phase shift (radians): 1.362
+Phase shift (degrees): 78.0
+Difference: 11.98
+
+File: data/Oscilloscope Data/scope_a1_pw_30.csv
+Phase shift (radians): 1.411
+Phase shift (degrees): 80.8
+Difference: 9.17
+
+File: data/Oscilloscope Data/scope_a1_pw_31.csv
+Phase shift (radians): 1.395
+Phase shift (degrees): 79.9
+Difference: 10.10
+
+File: data/Oscilloscope Data/scope_a1_pw_32.csv
+Phase shift (radians): 1.388
+Phase shift (degrees): 79.5
+Difference: 10.47
+
+File: data/Oscilloscope Data/scope_a1_pw_33.csv
+Phase shift (radians): 1.382
+Phase shift (degrees): 79.2
+Difference: 10.80
+
+File: data/Oscilloscope Data/scope_a1_pw_34.csv
+Phase shift (radians): 1.373
+Phase shift (degrees): 78.6
+Difference: 11.35
+
+File: data/Oscilloscope Data/scope_a1_pw2_00.csv
+Phase shift (radians): 1.413
+Phase shift (degrees): 80.9
+Difference: 9.06
+
+File: data/Oscilloscope Data/scope_a1_pw2_01.csv
+Phase shift (radians): 1.397
+Phase shift (degrees): 80.1
+Difference: 9.95
+
+File: data/Oscilloscope Data/scope_a1_pw2_02.csv
+Phase shift (radians): 1.387
+Phase shift (degrees): 79.5
+Difference: 10.54
+
+File: data/Oscilloscope Data/scope_a1_pw2_03.csv
+Phase shift (radians): 1.381
+Phase shift (degrees): 79.1
+Difference: 10.85
+
+File: data/Oscilloscope Data/scope_a1_pw2_04.csv
+Phase shift (radians): 1.365
+Phase shift (degrees): 78.2
+Difference: 11.78
+
+File: data/Oscilloscope Data/scope_a1_pw2_10.csv
+Phase shift (radians): 1.415
+Phase shift (degrees): 81.0
+Difference: 8.95
+
+File: data/Oscilloscope Data/scope_a1_pw2_11.csv
+Phase shift (radians): 1.397
+Phase shift (degrees): 80.0
+Difference: 9.96
+
+File: data/Oscilloscope Data/scope_a1_pw2_12.csv
+Phase shift (radians): 1.389
+Phase shift (degrees): 79.6
+Difference: 10.44
+
+File: data/Oscilloscope Data/scope_a1_pw2_13.csv
+Phase shift (radians): 1.383
+Phase shift (degrees): 79.3
+Difference: 10.74
+
+File: data/Oscilloscope Data/scope_a1_pw2_14.csv
+Phase shift (radians): 1.373
+Phase shift (degrees): 78.7
+Difference: 11.31
+
+File: data/Oscilloscope Data/scope_a1_pw2_20.csv
+Phase shift (radians): 1.415
+Phase shift (degrees): 81.1
+Difference: 8.93
+
+File: data/Oscilloscope Data/scope_a1_pw2_21.csv
+Phase shift (radians): 1.399
+Phase shift (degrees): 80.1
+Difference: 9.87
+
+File: data/Oscilloscope Data/scope_a1_pw2_22.csv
+Phase shift (radians): 1.389
+Phase shift (degrees): 79.6
+Difference: 10.41
+
+File: data/Oscilloscope Data/scope_a1_pw2_23.csv
+Phase shift (radians): 1.380
+Phase shift (degrees): 79.1
+Difference: 10.92
+
+File: data/Oscilloscope Data/scope_a1_pw2_24.csv
+Phase shift (radians): 1.367
+Phase shift (degrees): 78.3
+Difference: 11.70
+
+File: data/Oscilloscope Data/scope_a1_pw2_30.csv
+Phase shift (radians): 1.417
+Phase shift (degrees): 81.2
+Difference: 8.83
+
+File: data/Oscilloscope Data/scope_a1_pw2_31.csv
+Phase shift (radians): 1.399
+Phase shift (degrees): 80.2
+Difference: 9.85
+
+File: data/Oscilloscope Data/scope_a1_pw2_32.csv
+Phase shift (radians): 1.389
+Phase shift (degrees): 79.6
+Difference: 10.41
+
+File: data/Oscilloscope Data/scope_a1_pw2_33.csv
+Phase shift (radians): 1.384
+Phase shift (degrees): 79.3
+Difference: 10.72
+
+File: data/Oscilloscope Data/scope_a1_pw2_34.csv
+Phase shift (radians): 1.375
+Phase shift (degrees): 78.8
+Difference: 11.23
+
