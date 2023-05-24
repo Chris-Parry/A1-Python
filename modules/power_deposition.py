@@ -26,8 +26,11 @@ for file in filepath:
     # Calculate the power
     df["Power"] = df["Voltage1"] * df["Current"]
 
-    # Since the voltage and current are sinusoidal, their phase difference will affect the power
-    # Assuming that the phase difference is zero for now, as it's not specified in the question
+    # Since the voltage and current are sinusoidal, their phase difference
+    # will affect the power
+    # Assuming that the phase difference is zero for now, as it's not specified
+    # in the question
+
     theta = np.radians(3.935)
     df["Power"] = df["Power"] * np.cos(theta)
 
